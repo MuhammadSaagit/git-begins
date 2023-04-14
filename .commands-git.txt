@@ -1,0 +1,6 @@
+Cloner un dépot = git clone [repository URL]
+Les 3 commandes push = 
+git add . or git add [file name] to stage changes for commit
+git commit -m "[commit message]" to commit the changes with a descriptive message
+git push to push the changes to the remote repository
+git pull
